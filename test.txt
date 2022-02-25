@@ -1,2 +1,9 @@
 Testings
+<<<<<<< HEAD
 testing main feature for tools
+=======
+testing main feature
+testing feature 10
+testing feature 11
+testing feature 13
+>>>>>>> 01a506a87f5591e794f93f059612946ac3445857
